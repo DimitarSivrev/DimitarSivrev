@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dimitar</h1>
-<h3 align="center">An aspiring data scientist from the United Kingdom.</h3>
+<h3 align="center">An aspiring data engineer from the United Kingdom.</h3>
 
-- 🔭 I’m currently working on **data analytics with Python and R**
+- 🔭 I’m currently learning **data structures and algorithms, Apache Spark**
 
-- 🌱 I’m currently learning **data and its applications in finance and the economy**
 
-- 👯 I’m looking to collaborate on **software that can be used in the financial industry**
-
-- 💬 Ask me about **statistics and data**
 
 - 📫 How to reach me **LinkedIn: DimitarSivrev**
 
