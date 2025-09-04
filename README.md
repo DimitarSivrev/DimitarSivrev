@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dimitar</h1>
-<h3 align="center">An aspiring data engineer from the United Kingdom.</h3>
+<h3 align="center">An aspiring developer from the United Kingdom.</h3>
 
-- 🔭 I’m currently learning **data structures and algorithms, Apache Spark**
+- 🔭 I’m currently learning **data structures and algorithms, Apache Spark, Apache Kafka**
 
 
 
