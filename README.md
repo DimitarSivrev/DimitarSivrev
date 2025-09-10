@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimitar</h1>
-<h3 align="center">An aspiring developer from the United Kingdom.</h3>
+<h3 align="center">An recent graduate from the University of Exeter</h3>
 
 - 🔭 I’m currently learning **data structures and algorithms, Apache Spark, Apache Kafka**
 
